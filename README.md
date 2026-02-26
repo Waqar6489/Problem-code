@@ -1,8 +1,8 @@
 # Problem-code
-**Solve a small problem using python**\n
-**#Problem 1 – Palindrome Checker**\n
+**Solve a small problem using python**
+**#Problem 1 – Palindrome Checker**
 ● Function that checks if a string is a palindrome (ignore spaces, punctuation, case
-**#Problem 2 – Prime Number Generator**\n
+**#Problem 2 – Prime Number Generator**
 ● Function to generate all prime numbers between 1 and N (user input)
 **#Problem 3 – List Analysis**
 ● Function that takes a list of numbers and returns:
